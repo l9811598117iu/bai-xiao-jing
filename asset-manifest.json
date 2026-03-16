@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/static/css/main.e6c13ad2.css",
-    "main.js": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/static/js/main.e163a123.js",
-    "static/js/453.c1c7edb9.chunk.js": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/static/js/453.c1c7edb9.chunk.js",
-    "index.html": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/index.html",
-    "main.e6c13ad2.css.map": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/static/css/main.e6c13ad2.css.map",
-    "main.e163a123.js.map": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/static/js/main.e163a123.js.map",
-    "453.c1c7edb9.chunk.js.map": "/[https://l9811598117iu.github.io/bai-xiao-jing](https://l9811598117iu.github.io/bai-xiao-jing)/static/js/453.c1c7edb9.chunk.js.map"
+    "main.css": "/bai-xiao-jing/static/css/main.e6c13ad2.css",
+    "main.js": "/bai-xiao-jing/static/js/main.8b3b6b81.js",
+    "static/js/453.c1c7edb9.chunk.js": "/bai-xiao-jing/static/js/453.c1c7edb9.chunk.js",
+    "index.html": "/bai-xiao-jing/index.html",
+    "main.e6c13ad2.css.map": "/bai-xiao-jing/static/css/main.e6c13ad2.css.map",
+    "main.8b3b6b81.js.map": "/bai-xiao-jing/static/js/main.8b3b6b81.js.map",
+    "453.c1c7edb9.chunk.js.map": "/bai-xiao-jing/static/js/453.c1c7edb9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e163a123.js"
+    "static/js/main.8b3b6b81.js"
   ]
 }
